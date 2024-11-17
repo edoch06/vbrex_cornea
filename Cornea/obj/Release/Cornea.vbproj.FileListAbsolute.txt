@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\Cornea.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\Cornea.MDICornea.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\Cornea.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\Cornea.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\bin\Release\Cornea.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\bin\Release\Cornea.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\bin\Release\Cornea.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\Cornea.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\Cornea.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Release\Cornea.pdb
