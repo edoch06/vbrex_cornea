@@ -84,6 +84,18 @@
     <Compile Include="AddBlGroup.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="AddBranch.Designer.vb">
+      <DependentUpon>AddBranch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddBranch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BetweenSalesPreview.Designer.vb">
+      <DependentUpon>BetweenSalesPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BetweenSalesPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -103,6 +115,14 @@
   <ItemGroup>
     <EmbeddedResource Include="AddBlGroup.resx">
       <DependentUpon>AddBlGroup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddBranch.resx">
+      <DependentUpon>AddBranch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BetweenSalesPreview.resx">
+      <DependentUpon>BetweenSalesPreview.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
