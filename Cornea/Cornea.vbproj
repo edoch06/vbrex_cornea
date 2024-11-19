@@ -90,6 +90,12 @@
     <Compile Include="AddBranch.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="AddCountry.Designer.vb">
+      <DependentUpon>AddCountry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddCountry.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="BetweenSalesPreview.Designer.vb">
       <DependentUpon>BetweenSalesPreview.vb</DependentUpon>
     </Compile>
@@ -119,6 +125,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AddBranch.resx">
       <DependentUpon>AddBranch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCountry.resx">
+      <DependentUpon>AddCountry.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="BetweenSalesPreview.resx">
