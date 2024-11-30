@@ -108,6 +108,12 @@
     <Compile Include="AddEmpDetails.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="AddJobCategory.Designer.vb">
+      <DependentUpon>AddJobCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddJobCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="BetweenSalesPreview.Designer.vb">
       <DependentUpon>BetweenSalesPreview.vb</DependentUpon>
     </Compile>
@@ -149,6 +155,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AddEmpDetails.resx">
       <DependentUpon>AddEmpDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddJobCategory.resx">
+      <DependentUpon>AddJobCategory.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="BetweenSalesPreview.resx">
