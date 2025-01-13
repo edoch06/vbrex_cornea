@@ -114,6 +114,12 @@
     <Compile Include="AddJobCategory.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="AddNationality.Designer.vb">
+      <DependentUpon>AddNationality.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddNationality.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="BetweenSalesPreview.Designer.vb">
       <DependentUpon>BetweenSalesPreview.vb</DependentUpon>
     </Compile>
@@ -159,6 +165,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AddJobCategory.resx">
       <DependentUpon>AddJobCategory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNationality.resx">
+      <DependentUpon>AddNationality.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="BetweenSalesPreview.resx">
