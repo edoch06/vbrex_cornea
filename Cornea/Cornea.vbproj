@@ -132,6 +132,12 @@
     <Compile Include="BulkActions.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="DatabaseConnection.Designer.vb">
+      <DependentUpon>DatabaseConnection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseConnection.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -183,6 +189,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BulkActions.resx">
       <DependentUpon>BulkActions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatabaseConnection.resx">
+      <DependentUpon>DatabaseConnection.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
